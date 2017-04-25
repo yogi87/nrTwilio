@@ -1,0 +1,15 @@
+{
+  "name": "nr2twilio",
+  "version": "0.0.1",
+  "description": "Alert via sms using Twilio from NR.",
+  "main": "app.js",
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/yogi87/nrTwilio"
+},
+  "author": "Yogi Pillay",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
